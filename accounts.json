@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "username": "root",
+        "mail": "root@localhost",
+        "password": "pass"
+    },
+    {
+        "id": 1,
+        "mail": "admin@localhost",
+        "username": "admin",
+        "password": "admin"
+    },
+    {
+        "mail": "kesaint-@student.42.fr",
+        "username": "kesaint-",
+        "password": "password",
+        "id": 2
+    },
+    {
+        "mail": "mjackson@student.42.fr",
+        "username": "Mickael Jackson",
+        "password": "fraiselol",
+        "id": 2
+    }
+]
